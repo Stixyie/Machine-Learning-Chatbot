@@ -1,4 +1,4 @@
-# Protogen: Gelişmiş Yapay Zeka Sohbet Robotu
+# İngilizce Makine Öğrenimi Sohbet Robotu
 
 ## 🤖 Proje Genel Bakış
 
