@@ -2,7 +2,7 @@
 
 ## 🤖 Proje Genel Bakış
 
-Protogen, modern yapay zeka teknolojilerini kullanan makine öğrenimi bir sohbet robotu projesidir. Bu proje, doğal dil işleme, makine öğrenmesi ve çoklu dil desteği gibi gelişmiş özelliklere sahip bir Telegram chatbot'u olarak tasarlanmıştır.
+Bu sohbet botu, modern yapay zeka teknolojilerini kullanan makine öğrenimi bir sohbet robotu projesidir. Bu proje, doğal dil işleme, makine öğrenmesi ve çoklu dil desteği gibi gelişmiş özelliklere sahip bir Telegram chatbot'u olarak tasarlanmıştır.
 
 ## ✨ Özellikler
 
